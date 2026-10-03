@@ -40,9 +40,9 @@ jobjectArray GetFeatureList(JNIEnv *env, jobject context) {
     const char *features[] = {
             OBFUSCATE("Category_AUTO DANCE"),
             OBFUSCATE("Toggle_Auto Play"),
-            OBFUSCATE("SeekBar_Great_0_100"),
-            OBFUSCATE("SeekBar_Good_0_100"),
-            OBFUSCATE("SeekBar_Bad_0_100"),
+            //OBFUSCATE("SeekBar_Great_0_100"),
+            //OBFUSCATE("SeekBar_Good_0_100"),
+            //OBFUSCATE("SeekBar_Bad_0_100"),
            // OBFUSCATE("Category_Examples"), //Not counted
           //  OBFUSCATE("Toggle_The toggle"),
            // OBFUSCATE(
